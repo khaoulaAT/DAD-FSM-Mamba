@@ -6,7 +6,7 @@ This repository presents **DAD-FSM-Mamba**, a deep learning architecture for **V
 
 The proposed approach extends the original **DAD-FSM (Drone Anomaly Detection via Future Segmentation Modeling)** framework by integrating **Mamba-based State Space Models (SSMs)** to improve spatio-temporal modeling while reducing computational complexity from **O(n²)** to **O(n)**.
 
-This work was developed as a Master's Final Project in **Artificial Intelligence and Digital Computing (AIDC)** at the **Faculty of Sciences and Techniques of Béni Mellal**, Sultan Moulay Slimane University.
+This work was developed as a Master's Final Project entitled "Video Anomaly Detection in Drone Videos Based on Mamba Architecture" in the Artificial Intelligence and Digital Computing (AIDC) program at the Faculty of Sciences and Techniques of Béni Mellal, Sultan Moulay Slimane University.
 
 ---
 
